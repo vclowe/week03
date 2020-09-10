@@ -1,0 +1,43 @@
+div {
+    background-color: rgb(248, 248, 248);
+    padding: 10px;
+    width: 50%;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    /* margin: 10px auto 20px auto; */
+}
+
+.pink {
+    background-color: lightpink;
+}
+
+.blue {
+    color: #0072c6;
+}
+
+
+
+
+span {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    background: rgb(238, 69, 186);
+    background: linear-gradient(90deg, rgba(238, 69, 186, 0.7035189075630253) 0%, rgba(69, 113, 252, 0.7903536414565826) 100%);
+    margin: 50px;
+    padding: 80px;
+    width: 100%;
+}
+
+h2 {
+    color: hotpink;
+}
+
+h3 {
+    color: hotpink;
+    font-style: italic;
+}
